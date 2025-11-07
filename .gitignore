@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+_build/
+ligotools.egg-info/
+
+# Outputs
+figures/*
+audio/*
