@@ -12,3 +12,10 @@ ligotools.egg-info/
 # Outputs
 figures/*
 audio/*
+*.wav
+*.png
+*.json
+data/
+audio/
+figures/
+.ipynb_checkpoints/
