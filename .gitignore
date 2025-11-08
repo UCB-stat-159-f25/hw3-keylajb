@@ -19,3 +19,8 @@ data/
 audio/
 figures/
 .ipynb_checkpoints/
+*.wav
+*.png
+audio/
+figures/
+.ipynb_checkpoints/
