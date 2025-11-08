@@ -1,0 +1,25 @@
+Asked ChatGPT "where is the "about" section in a GitHub repo"
+
+response: 🧭 Step-by-Step to Find the “About” Section
+Go to your repo’s main page
+Open your repo in your browser — e.g.
+👉 https://github.com/UCB-stat-159-f25/hw3-keylajb
+You should see the file list (like README.md, myst.yml, etc.).
+Look in the top-right area — next to the green “Code” button
+You’ll see a small sidebar box titled “About”
+(it might say something like “No description, website, or topics provided.”)
+🔎 It’s on the right side of the screen, not inside the file list —
+near where you see “Releases”, “Packages”, or “Languages”.
+
+
+Asked Chat GPT: "how can I put all the images into one figures folder and to be ignored"
+
+Response: "mv *.png *.jpg *.pdf figures/"
+
+Asked ChatGPT: "how can I put a copy of the mystery site on my GitHub?"
+
+Response: 🚀 Step 1 – Commit your final MyST build setup
+First, make sure everything you just built is tracked and pushed.
+git add myst.yml README.md
+git commit -m "Final MyST site with Binder badge ready for GitHub Pages"
+git push
